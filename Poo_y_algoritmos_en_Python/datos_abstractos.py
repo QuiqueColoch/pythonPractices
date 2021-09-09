@@ -25,4 +25,4 @@ if __name__ == '__main__':
     coord_2 = Coordenada(4,8)
 
     #print(coord_1.distancia(coord_2))
-    print(isinstance(3, Coordenada))
+    print(isinstance(coord_2, Coordenada))
